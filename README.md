@@ -1,7 +1,9 @@
-# Hi I'm Nathan 👋
+# Hi, I'm Nathan 👋
 
-- 🇧🇪 I’m currently learning at **42 Belgium** with the username: nsaillez
-- 🥷 My skills: BASH, GIT, C, C++, Docker & more
-- 📫 How to reach me: worksailleznathan@gmail.com
+## 🎮 Aspiring Game Developer
 
-### Never stop learning!
+- 🇧🇪 Student at **42 Belgium**
+- 🛠️ Skills: Bash, Git, C, C++, Docker & more  
+- 📫 Email: worksailleznathan@gmail.com
+
+> I currently have limited industry experience, but I’m motivated, curious, and committed to growing as a developer
