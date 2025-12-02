@@ -4,4 +4,4 @@
 - 🥷 My skills: BASH, GIT, C, C++, Docker & more
 - 📫 How to reach me: worksailleznathan@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NectarSierra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nectarsierra&layout=compact)
