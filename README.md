@@ -6,4 +6,5 @@
 - 🛠️ Skills: Bash, Git, C, C++, Docker & more  
 - 📫 Email: worksailleznathan@gmail.com
 
-> I currently have limited industry experience, but I’m motivated, curious, and committed to growing as a developer
+> I currently have limited industry experience,
+> but I’m motivated, curious, and committed to growing as a developer
