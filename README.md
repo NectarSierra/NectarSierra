@@ -2,7 +2,7 @@
 
 ## 🎮 Aspiring Game Developer
 
-- 🇧🇪 Student at **42 Belgium**
+- 🇧🇪 Student at **[42Belgium](https://42belgium.be)**
 - 🛠️ Skills: Bash, Git, C, C++, Docker & more  
 - 📫 Email: worksailleznathan@gmail.com
 
