@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-## 🎮 Aspiring Game Developer
+## Aspiring Game Developer
 
 - 🇧🇪 Student at **[42Belgium](https://42belgium.be)**
 - 📫 Email: worksailleznathan@gmail.com
